@@ -1,0 +1,37 @@
+_repo: Betty-Alden-The-first-born-daughter-of-the-Pilgrims_67608
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Austin, Jane G. (Jane Goodwin)
+    aliases:
+    - Austin, Mrs. Henry
+    - Austin, Jane Goodwin
+    - Goodwin, Jane
+    birthdate: 1831
+    deathdate: 1894
+    gutenberg_agent_id: '1544'
+    url: http://www.gutenberg.org/2009/agents/1544
+    wikipedia: https://en.wikipedia.org/wiki/Jane_G._Austin
+description: ''
+gutenberg_issued: '2022-03-12'
+identifiers:
+  gutenberg: '67608'
+  lccn: '04015064'
+language: en
+pgterms:marc904: https://archive.org/details/bettyalden00austrich/page/n7/mode/2up
+pgterms:marc905: 20210822070919austin
+pgterms:marc906: '1891'
+pgterms:marc907: US
+production_note: Steve Mattern, Martin Pettit and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :Houghton Mifflin Company,1891.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- History -- Colonial period, ca. 1600-1775 -- Fiction'
+- GITenberg
+title: 'Betty Alden: The first-born daughter of the Pilgrims'
+url: http://www.gutenberg.org/ebooks/67608
