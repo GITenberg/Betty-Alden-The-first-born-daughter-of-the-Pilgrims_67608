@@ -1,5 +1,8 @@
 _repo: Betty-Alden-The-first-born-daughter-of-the-Pilgrims_67608
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67608-h/images/cover.jpg
 creator:
   author:
     agent_name: Austin, Jane G. (Jane Goodwin)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1544
     wikipedia: https://en.wikipedia.org/wiki/Jane_G._Austin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67608#Betty-Alden-The-first-born-daughter-of-the-Pilgrims
 gutenberg_issued: '2022-03-12'
 identifiers:
   gutenberg: '67608'
